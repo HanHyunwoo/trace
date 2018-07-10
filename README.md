@@ -66,7 +66,17 @@ Please feel free to use a different markup language if you do not plan to run
   http://localhost:3000/
   ```
 
-  
+
+
+  <!-- rails generate controller schedules create
+
+  414  rails g controller posts index new create show edit update destroy
+  415  rails g model post title:string content:text
+  416  rails g model comment content:string post_id:integer
+  417  bundle install
+  418  rails generate devise:install
+  419  rails generate devise user
+  420  rake db:migrate -->
 
 
 
